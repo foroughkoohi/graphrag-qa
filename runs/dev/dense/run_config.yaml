@@ -1,19 +1,14 @@
 system_name: dense_rag
 phase: 1
 split: dev
-description: bge-small dense retrieval top-5, gemma-2-2b-it on CPU
+description: "bge-small dense top-5 + Qwen3-8B, strict prompt"
 models:
-  llm:
-    name: google/gemma-2-2b-it
-    where: Local CPU (AMD Ryzen 7 3700U)
-    temperature: 0
+  llm: {name: Qwen/Qwen3-8B, where: "Kaggle T4, vLLM, 4-bit AWQ", temperature: 0}
   embedder: BAAI/bge-small-en-v1.5
   reranker: null
 settings:
-  retrieval:
-    unit: passage
-    k: 5
+  retrieval: {unit: passage, k: 5}
   max_new_tokens: 30
-  prompt_template: rag short-answer
-command: python src/run_dense_rag.py --split dev --k 5
-date: '2026-10-14'
+  prompt_file: prompts/strict.txt
+command: "python src/run_dense_rag.py --split dev --k 5"
+date: 2026-10-14

@@ -1,0 +1,300 @@
+{"qid": "q1001", "question": "Which film has the director who was born first, Cross Of Love or Ljuvlig Är Sommarnatten?", "type": "bridge_comparison"}
+{"qid": "q1002", "question": "Which film whose director is younger, Dangerously They Live or Salad By The Roots?", "type": "bridge_comparison"}
+{"qid": "q1003", "question": "Where was the director of film Trick For Trick born?", "type": "compositional"}
+{"qid": "q1004", "question": "Which film was released more recently, Sacred Silence or Ek Haseena Thi Ek Deewana Tha?", "type": "comparison"}
+{"qid": "q1005", "question": "Which film has the director died earlier, Modern Mothers or The Slaughter Rule?", "type": "bridge_comparison"}
+{"qid": "q1006", "question": "What is the place of birth of the performer of song Worn Me Down?", "type": "compositional"}
+{"qid": "q1007", "question": "Which film was released earlier, Cloud Dancer or Ingmar'S Inheritance?", "type": "comparison"}
+{"qid": "q1008", "question": "What is the place of birth of Alexandru Darie's father?", "type": "compositional"}
+{"qid": "q1009", "question": "Who was born first out of Eliza Ritchie and Benjamin Nash?", "type": "comparison"}
+{"qid": "q1010", "question": "Who is the spouse of the director of film Ride, Vaquero!?", "type": "compositional"}
+{"qid": "q1011", "question": "Where was the director of film Slingshot (Film) born?", "type": "compositional"}
+{"qid": "q1012", "question": "Who was born first, Lương Hoàng Nam or Ross Mcmillan?", "type": "comparison"}
+{"qid": "q1013", "question": "Does Francine Van Hove have the same nationality as André Blanc?", "type": "comparison"}
+{"qid": "q1014", "question": "Which film was released earlier, Nesmrtelná Teta or Illang: The Wolf Brigade?", "type": "comparison"}
+{"qid": "q1015", "question": "What nationality is the director of film On The Trail Of Igor Rizzi?", "type": "compositional"}
+{"qid": "q1016", "question": "What is the place of birth of the director of film Nell'S Eugenic Wedding?", "type": "compositional"}
+{"qid": "q1017", "question": "Who is Prince Alexander Romanov's paternal grandfather?", "type": "inference"}
+{"qid": "q1018", "question": "Who was born earlier, Marius Mapou or Ademilson Silva Marques?", "type": "comparison"}
+{"qid": "q1019", "question": "Where did Jennifer Siebel Newsom's husband graduate from?", "type": "compositional"}
+{"qid": "q1020", "question": "Who is the aunt of Elisabeth, Countess Of Vermandois?", "type": "inference"}
+{"qid": "q1021", "question": "Who is Charles Howard, Viscount Morpeth's paternal grandfather?", "type": "inference"}
+{"qid": "q1022", "question": "Who is the grandchild of Stefan Zamoyski?", "type": "inference"}
+{"qid": "q1023", "question": "What is the place of birth of the director of film Under The Cards?", "type": "compositional"}
+{"qid": "q1024", "question": "Which film has the director who is older than the other, Woman Doctor or Det Drønner Gjennom Dalen? ", "type": "bridge_comparison"}
+{"qid": "q1025", "question": "Which film has the director died earlier, Say It With Sables or The Face At Your Window?", "type": "bridge_comparison"}
+{"qid": "q1026", "question": "Who was born later, Ramón Corona or Ernest William Goodpasture?", "type": "comparison"}
+{"qid": "q1027", "question": "Where was the place of death of the composer of film Alice (2005 Film)?", "type": "compositional"}
+{"qid": "q1028", "question": "Which one was established first, American Airlines Group or Pacific Northwest Bell?", "type": "comparison"}
+{"qid": "q1029", "question": "What is the date of death of the director of film Aakraman?", "type": "compositional"}
+{"qid": "q1030", "question": "Which film whose director is younger, Sardari Begum or El Monstruo Resucitado?", "type": "bridge_comparison"}
+{"qid": "q1031", "question": "Who is older, James M. Burd or Clay Campbell?", "type": "comparison"}
+{"qid": "q1032", "question": "What nationality is Isabel Freire De Matos's husband?", "type": "compositional"}
+{"qid": "q1033", "question": "Which album was released earlier, Years Past Matter or Digital Smoke?", "type": "comparison"}
+{"qid": "q1034", "question": "Which film was released earlier, Più Bello Di Così Si Muore or Past Minutes?", "type": "comparison"}
+{"qid": "q1035", "question": "Where was the place of death of the performer of song I'Ll Come Running Back To You?", "type": "compositional"}
+{"qid": "q1036", "question": "Who is the paternal grandfather of Zainal Rashid Al-Mu'Adzam Shah I Of Kedah?", "type": "inference"}
+{"qid": "q1037", "question": "Who is the mother-in-law of Ursula Pole, Baroness Stafford?", "type": "inference"}
+{"qid": "q1038", "question": "Who is younger, Arthur Stannard Vernay or Janusz Bielański?", "type": "comparison"}
+{"qid": "q1039", "question": "Which film has the director born later, Per Amore... Per Magia... or All Wrong (Film)?", "type": "bridge_comparison"}
+{"qid": "q1040", "question": "Which film whose director was born first, Paid Back or Painted Angels?", "type": "bridge_comparison"}
+{"qid": "q1041", "question": "What is the place of birth of Zhanna Nemtsova's father?", "type": "compositional"}
+{"qid": "q1042", "question": "Where was the director of film Marlene (1984 Film) born?", "type": "compositional"}
+{"qid": "q1043", "question": "Which film whose director is younger, Mommy Is At The Hairdresser'S or Down Three Dark Streets?", "type": "bridge_comparison"}
+{"qid": "q1044", "question": "Where was the place of death of the director of film Muchachos De La Ciudad?", "type": "compositional"}
+{"qid": "q1045", "question": "Who is Iynefer Ii's mother-in-law?", "type": "inference"}
+{"qid": "q1046", "question": "What is the place of birth of the director of film General John Regan (1933 Film)?", "type": "compositional"}
+{"qid": "q1047", "question": "Where does the director of film Triple Agent work at?", "type": "compositional"}
+{"qid": "q1048", "question": "Who is older, Des Clohessy or Walterina Markova?", "type": "comparison"}
+{"qid": "q1049", "question": "Who died later, Ernesto Tamariz or Helen Ainsworth?", "type": "comparison"}
+{"qid": "q1050", "question": "Which film was released more recently, Horas Marcadas or Tiny Times 3?", "type": "comparison"}
+{"qid": "q1051", "question": "Which film whose director was born first, Sing While You'Re Able or Terror Of The Garrison?", "type": "bridge_comparison"}
+{"qid": "q1052", "question": "Who is younger, Patrick Garcia or Alfred Wallis?", "type": "comparison"}
+{"qid": "q1053", "question": "Which film has the director who died earlier, The King Of The Wild Horses or The Great Warrior Skanderbeg?", "type": "bridge_comparison"}
+{"qid": "q1054", "question": "What is the place of birth of the director of film Thunder Alley (1967 Film)?", "type": "compositional"}
+{"qid": "q1055", "question": "Who was born first out of Momed Hagi and Lee Richmond?", "type": "comparison"}
+{"qid": "q1056", "question": "Where did Fergus Mac Fogartaig's father die?", "type": "compositional"}
+{"qid": "q1057", "question": "Which country Aleksander Dominik Lubomirski's mother is from?", "type": "compositional"}
+{"qid": "q1058", "question": "Where did the editor of magazine Black Mask (Magazine) die?", "type": "compositional"}
+{"qid": "q1059", "question": "Do both films: Challenge To White Fang and Asphalt Warriors have the directors from the same country?", "type": "bridge_comparison"}
+{"qid": "q1060", "question": "Who lived longer, János Horvay or Amin Al-Hindi?", "type": "comparison"}
+{"qid": "q1061", "question": "Which film has the director born earlier, Life Is Hot In Cracktown or Between Maybes?", "type": "bridge_comparison"}
+{"qid": "q1062", "question": "Who is Princess Florestine Of Monaco's paternal grandmother?", "type": "inference"}
+{"qid": "q1063", "question": "Who is the spouse of the director of film Kranthiyogi Basavanna?", "type": "compositional"}
+{"qid": "q1064", "question": "Which film has the director died first, In A Lonely Place or The Winning Of Sally Temple?", "type": "bridge_comparison"}
+{"qid": "q1065", "question": "Which film has the director born earlier, Cantata De Chile or Cheyenne Roundup?", "type": "bridge_comparison"}
+{"qid": "q1066", "question": "Which film was released earlier, Beatrice Wood: Mama Of Dada or Natürlich Die Nelli?", "type": "comparison"}
+{"qid": "q1067", "question": "Which film has the director died first, Mountain Crystal or La Signorina Ciclone?", "type": "bridge_comparison"}
+{"qid": "q1068", "question": "Who is Margaret Fiennes, 11Th Baroness Dacre's paternal grandfather?", "type": "inference"}
+{"qid": "q1069", "question": "What is the date of death of Edward Wingfield, 2Nd Viscount Powerscourt's father?", "type": "compositional"}
+{"qid": "q1070", "question": "Who is the paternal grandmother of Alix, Countess Of Eu?", "type": "inference"}
+{"qid": "q1071", "question": "Which film whose director is younger, I Enjoy The World With You or Fear On Trial?", "type": "bridge_comparison"}
+{"qid": "q1072", "question": "Where was the director of film Scarlet Seas born?", "type": "compositional"}
+{"qid": "q1073", "question": "Who is the paternal grandfather of Henry Cubitt, 4Th Baron Ashcombe?", "type": "inference"}
+{"qid": "q1074", "question": "Where was the place of death of the composer of song They All Laughed (Song)?", "type": "compositional"}
+{"qid": "q1075", "question": "Which film has the director died earlier, I Married A Monster From Outer Space or T-Men?", "type": "bridge_comparison"}
+{"qid": "q1076", "question": "Who is Archduchess Assunta Of Austria's paternal grandfather?", "type": "inference"}
+{"qid": "q1077", "question": "What is the place of birth of the director of film Nightworld (Film)?", "type": "compositional"}
+{"qid": "q1078", "question": "Who is the stepchild of Paal Bog?", "type": "inference"}
+{"qid": "q1079", "question": "Who is Marianus V Of Arborea's mother?", "type": "inference"}
+{"qid": "q1080", "question": "Who is John Kemys Spencer-Churchill's paternal grandfather?", "type": "inference"}
+{"qid": "q1081", "question": "What is the place of birth of Megat Iskandar Shah Of Malacca's father?", "type": "compositional"}
+{"qid": "q1082", "question": "What is the place of birth of Bernard (Son Of Charles The Fat)'s father?", "type": "compositional"}
+{"qid": "q1083", "question": "Where was the director of film Prehistoric Women born?", "type": "compositional"}
+{"qid": "q1084", "question": "Which film has the director who died later, Laughing At Trouble or The Train For Venice?", "type": "bridge_comparison"}
+{"qid": "q1085", "question": "What nationality is the composer of song Mere Rashke Qamar?", "type": "compositional"}
+{"qid": "q1086", "question": "Are both airports, Far View Airport and Bellevue Airfield, located in the same country?", "type": "comparison"}
+{"qid": "q1087", "question": "Which film was released first, It Came From Outer Space or Volver A La Vida?", "type": "comparison"}
+{"qid": "q1088", "question": "Which film has the director who is older than the other, The Last Summer Of The Rich or Trix, The Romance Of A Millionairess? ", "type": "bridge_comparison"}
+{"qid": "q1089", "question": "Who is the uncle of Catherine Allégret?", "type": "inference"}
+{"qid": "q1090", "question": "What is the place of birth of the director of film One, But A Lion!?", "type": "compositional"}
+{"qid": "q1091", "question": "What is the place of birth of the performer of song Afterglow (Tina Turner Song)?", "type": "compositional"}
+{"qid": "q1092", "question": "Are both churches, Basilica Of St. Lucia, Timotes and Saint Augustine By The Sea Catholic Church, located in the same country?", "type": "comparison"}
+{"qid": "q1093", "question": "Which film was released earlier, August Underground'S Penance or Vasantha Raagam?", "type": "comparison"}
+{"qid": "q1094", "question": "Which country the performer of song A Change Of Heart (Song) is from?", "type": "compositional"}
+{"qid": "q1095", "question": "Who is Anthony I, Count Of Oldenburg's paternal grandfather?", "type": "inference"}
+{"qid": "q1096", "question": "Who is younger, Paul Mokeski or Vincent Cobos?", "type": "comparison"}
+{"qid": "q1097", "question": "Who is the paternal grandfather of Aaron Twersky Of Chernobyl?", "type": "inference"}
+{"qid": "q1098", "question": "Who is Lambert I, Count Of Louvain's father-in-law?", "type": "inference"}
+{"qid": "q1099", "question": "Who died later, Bernardo Ibáñez or George K. Sanderson?", "type": "comparison"}
+{"qid": "q1100", "question": "Where did the director of film El Hombre Que Vino Del Odio die?", "type": "compositional"}
+{"qid": "q1101", "question": "Who is the paternal grandfather of John Vanden-Bempde-Johnstone?", "type": "inference"}
+{"qid": "q1102", "question": "Which country Abbhantripaja's father is from?", "type": "compositional"}
+{"qid": "q1103", "question": "Which film whose director is younger, A Blonde Dream or Cherche Fiancé Tous Frais Payés?", "type": "bridge_comparison"}
+{"qid": "q1104", "question": "Which film whose director was born first, Self-Made Maids or A Day For Lionhearts?", "type": "bridge_comparison"}
+{"qid": "q1105", "question": "Which country the director of film Shocking Asia Ii: The Last Taboos is from?", "type": "compositional"}
+{"qid": "q1106", "question": "Where was the husband of Lou Henry Hoover born?", "type": "compositional"}
+{"qid": "q1107", "question": "What nationality is Edwina Mountbatten, Countess Mountbatten Of Burma's husband?", "type": "compositional"}
+{"qid": "q1108", "question": "Are Valleyview Airport and Lucknow Airpark both located in the same country?", "type": "comparison"}
+{"qid": "q1109", "question": "Who is the spouse of the director of film The Imp (1919 Film)?", "type": "compositional"}
+{"qid": "q1110", "question": "Do director of film D'Annunzio (Film) and director of film Così Parlò Bellavista have the same nationality?", "type": "bridge_comparison"}
+{"qid": "q1111", "question": "Who was born first out of Sarah Sophia Banks and William Nassau De Zuylestein, 2Nd Earl Of Rochford?", "type": "comparison"}
+{"qid": "q1112", "question": "What is the place of birth of the director of film Confusion Na Wa?", "type": "compositional"}
+{"qid": "q1113", "question": "Where did Agnes Of Meissen's mother die?", "type": "compositional"}
+{"qid": "q1114", "question": "Which country the founder of St James Holdings is from?", "type": "compositional"}
+{"qid": "q1115", "question": "Who is Archduchess Maria Elisabeth Of Austria (1743–1808)'s father?", "type": "inference"}
+{"qid": "q1116", "question": "What is the date of birth of Hedvig Elizabeth Von Biron's mother?", "type": "compositional"}
+{"qid": "q1117", "question": "Which film has the director died later, Other People'S Relatives or In Old Cheyenne (1941 Film)?", "type": "bridge_comparison"}
+{"qid": "q1118", "question": "What is the date of death of Matilda Of Boulogne, Duchess Of Brabant's mother?", "type": "compositional"}
+{"qid": "q1119", "question": "What is the place of birth of the composer of song Balada Pro Pryntsesu?", "type": "compositional"}
+{"qid": "q1120", "question": "Which film was released more recently, Romance In The Dark or Suddenly Seventeen?", "type": "comparison"}
+{"qid": "q1121", "question": "Are Barguzin (Rural Locality) and Kedy both located in the same country?", "type": "comparison"}
+{"qid": "q1122", "question": "Which film has the director who died first, The Phantom Of Crestwood or Hate For Hate?", "type": "bridge_comparison"}
+{"qid": "q1123", "question": "Who is Adriana Of Nassau-Dillenburg's maternal grandfather?", "type": "inference"}
+{"qid": "q1124", "question": "What is the place of birth of Dorimène Roy Desjardins's husband?", "type": "compositional"}
+{"qid": "q1125", "question": "Where was the performer of song Einmal Verliebt, Immer Verliebt born?", "type": "compositional"}
+{"qid": "q1126", "question": "Who is Richard De Clare, Steward Of Forest Of Essex's paternal grandmother?", "type": "inference"}
+{"qid": "q1127", "question": "What is the place of birth of J.J. Madan's father?", "type": "compositional"}
+{"qid": "q1128", "question": "Where did the director of film 29+1 study?", "type": "compositional"}
+{"qid": "q1129", "question": "Which film has the director who was born later, The Silver Treasure or Taxi To Paradise?", "type": "bridge_comparison"}
+{"qid": "q1130", "question": "Which album came out earlier, The Decline And Fall Of Heavenly or Alphagene?", "type": "comparison"}
+{"qid": "q1131", "question": "Which film has the director who died earlier, Australia After Dark or Rainbow Over Broadway?", "type": "bridge_comparison"}
+{"qid": "q1132", "question": "Which country the director of film Dark Horse (2005 Film) is from?", "type": "compositional"}
+{"qid": "q1133", "question": "Which film whose director is younger, Bjørnepatruljen or Legs Of Gold?", "type": "bridge_comparison"}
+{"qid": "q1134", "question": "Where was the husband of Princess Alexandra Of Anhalt born?", "type": "compositional"}
+{"qid": "q1135", "question": "Where does the director of film Fort Bliss (Film) work at?", "type": "compositional"}
+{"qid": "q1136", "question": "Who was born first, Eveline Hill or Tigran Gharabaghtsyan?", "type": "comparison"}
+{"qid": "q1137", "question": "Where was the place of death of the director of film Sensational Janine?", "type": "compositional"}
+{"qid": "q1138", "question": "Which film has the director died first, Face In The Rain or Above The Rim?", "type": "bridge_comparison"}
+{"qid": "q1139", "question": "Where did the director of film The Price Of Everything study?", "type": "compositional"}
+{"qid": "q1140", "question": "Who is Princess Marie Alexandra Of Schleswig-Holstein's maternal grandfather?", "type": "inference"}
+{"qid": "q1141", "question": "Do the movies The Communist (Film) and Vella Kalpi, originate from the same country?", "type": "comparison"}
+{"qid": "q1142", "question": "Where was the father of Andrew Balding born?", "type": "compositional"}
+{"qid": "q1143", "question": "What nationality is the composer of film Dhilluku Dhuddu 2?", "type": "compositional"}
+{"qid": "q1144", "question": "Who is the mother of the performer of song One Love (Carlene Carter Song)?", "type": "compositional"}
+{"qid": "q1145", "question": "Which film has the director died later, Dissolved And Effused or Here Comes The Groom?", "type": "bridge_comparison"}
+{"qid": "q1146", "question": "Which film was released more recently, The Amazing Colossal Man or Palkon Ki Chhaon Mein?", "type": "comparison"}
+{"qid": "q1147", "question": "Which film has the director died first, Close To My Heart or Jayam Manade?", "type": "bridge_comparison"}
+{"qid": "q1148", "question": "What is the place of birth of the founder of Oak Hill Capital Partners?", "type": "compositional"}
+{"qid": "q1149", "question": "Which film has the director born first, The Face Of Fu Manchu or The Hidden One?", "type": "bridge_comparison"}
+{"qid": "q1150", "question": "Where was the place of death of Ptolemy Xiii Theos Philopator's wife?", "type": "compositional"}
+{"qid": "q1151", "question": "Who was born first, Leander J. Pierson or Gyula Illyés?", "type": "comparison"}
+{"qid": "q1152", "question": "Which film whose director is younger, Slums Of Berlin or Phantom India?", "type": "bridge_comparison"}
+{"qid": "q1153", "question": "Which film was released first, Battle Of Kosovo (Film) or Quackser Fortune Has A Cousin In The Bronx?", "type": "comparison"}
+{"qid": "q1154", "question": "Who is Henry Fitzroy, 1St Duke Of Grafton's stepmother?", "type": "inference"}
+{"qid": "q1155", "question": "Who was born first out of Li Yuyang and Adam Richman?", "type": "comparison"}
+{"qid": "q1156", "question": "What is the place of birth of the director of film Graves Without A Name?", "type": "compositional"}
+{"qid": "q1157", "question": "What is the place of birth of Archduchess Maria Immakulata Of Austria's mother?", "type": "compositional"}
+{"qid": "q1158", "question": "What nationality is the director of film Fix (Film)?", "type": "compositional"}
+{"qid": "q1159", "question": "When did the performer of song Rudolph The Red-Nosed Reindeer (Song) die?", "type": "compositional"}
+{"qid": "q1160", "question": "Who is Otto Iii, Prince Of Anhalt-Bernburg's paternal grandfather?", "type": "inference"}
+{"qid": "q1161", "question": "What is the place of birth of the director of film The Possession Of Hannah Grace?", "type": "compositional"}
+{"qid": "q1162", "question": "What is the place of birth of the director of film Los Secretos Del Buzón?", "type": "compositional"}
+{"qid": "q1163", "question": "Which film has the director who was born first, Singing In The Dark or Mr. Halpern And Mr. Johnson?", "type": "bridge_comparison"}
+{"qid": "q1164", "question": "Who is the paternal grandmother of John V, Count Of Oldenburg?", "type": "inference"}
+{"qid": "q1165", "question": "Which film was released first, Thrill Kill Jack In Hale Manor or Outing Riley?", "type": "comparison"}
+{"qid": "q1166", "question": "Which country the director of film Thalavattam is from?", "type": "compositional"}
+{"qid": "q1167", "question": "Do director of film Coteau Rouge and director of film Hochelaga, Land Of Souls share the same nationality?", "type": "bridge_comparison"}
+{"qid": "q1168", "question": "Which film came out first, Kumbasaram or Mystery Of The 13Th Guest?", "type": "comparison"}
+{"qid": "q1169", "question": "Which film has the director who was born later, Meraa Dost Meraa Dushman or Miles From Home?", "type": "bridge_comparison"}
+{"qid": "q1170", "question": "What is the place of birth of Ayşe Hatun (Wife Of Selim I)'s father?", "type": "compositional"}
+{"qid": "q1171", "question": "Who is the maternal grandmother of Louis, Dauphin Of France (Son Of Louis Xv)?", "type": "inference"}
+{"qid": "q1172", "question": "Which film has the director died first, The Company'S In Love or Punyakoti?", "type": "bridge_comparison"}
+{"qid": "q1173", "question": "Which film whose director is younger, Sujon Sokhi or Two Thousand Maniacs!?", "type": "bridge_comparison"}
+{"qid": "q1174", "question": "Which film has the director who was born later, Tarzan'S Hidden Jungle or The Brink'S Job?", "type": "bridge_comparison"}
+{"qid": "q1175", "question": "Where was the director of film Léonor born?", "type": "compositional"}
+{"qid": "q1176", "question": "Where was the director of film Konga Yo born?", "type": "compositional"}
+{"qid": "q1177", "question": "Where was the father of Frederik, Crown Prince Of Denmark born?", "type": "compositional"}
+{"qid": "q1178", "question": "Where was the father of Charles Hamlin (General) born?", "type": "compositional"}
+{"qid": "q1179", "question": "Which film has the director born later, Metalstorm: The Destruction Of Jared-Syn or The Story Of Film: An Odyssey?", "type": "bridge_comparison"}
+{"qid": "q1180", "question": "Which award the director of film Better Man (Miniseries) won?", "type": "compositional"}
+{"qid": "q1181", "question": "Which film was released first, I Am Stamos or Três Dias Sem Deus?", "type": "comparison"}
+{"qid": "q1182", "question": "Are Makhaleng River and Mdloti River both located in the same country?", "type": "comparison"}
+{"qid": "q1183", "question": "Which film has the director who died first, A Hopeless Case or Mary Stevens, M.D.?", "type": "bridge_comparison"}
+{"qid": "q1184", "question": "Who is younger, Peter Rosegger or Ruel Redinger?", "type": "comparison"}
+{"qid": "q1185", "question": "What is the place of birth of Nilüfer Hatun's husband?", "type": "compositional"}
+{"qid": "q1186", "question": "Where was the husband of Isabella Of Castile, Duchess Of York born?", "type": "compositional"}
+{"qid": "q1187", "question": "Are both Gonebiskari and Khalifeh Kandi, Markazi located in the same country?", "type": "comparison"}
+{"qid": "q1188", "question": "Where was the editor of magazine Argentus born?", "type": "compositional"}
+{"qid": "q1189", "question": "Which film came out earlier, Scooby-Doo! Shaggy'S Showdown or House On Willow Street?", "type": "comparison"}
+{"qid": "q1190", "question": "Which film came out earlier, The Keeping Room or A Sangre Fría?", "type": "comparison"}
+{"qid": "q1191", "question": "Where did the director of film Man Detained graduate from?", "type": "compositional"}
+{"qid": "q1192", "question": "Where was the place of burial of Henry Sellon Boneval Latrobe's father?", "type": "compositional"}
+{"qid": "q1193", "question": "Which film has the director who is older than the other, Sri Krishnavataram or Jimmie'S Millions? ", "type": "bridge_comparison"}
+{"qid": "q1194", "question": "Which film was released more recently, Radio Tekee Murron or Bahala Chennagide?", "type": "comparison"}
+{"qid": "q1195", "question": "Where was the place of death of Allah Verdi Mirza Farman Farmaian's father?", "type": "compositional"}
+{"qid": "q1196", "question": "Which film was released more recently, Abla Ki Shakti or L'Affittacamere?", "type": "comparison"}
+{"qid": "q1197", "question": "Who was born first, Miloš Mikeln or Hibetullah Sultan?", "type": "comparison"}
+{"qid": "q1198", "question": "What is the date of birth of Simon Fraser, 14Th Lord Lovat's father?", "type": "compositional"}
+{"qid": "q1199", "question": "Did the movies Piccolo Grande Amore and One Day More (Film), originate from the same country?", "type": "comparison"}
+{"qid": "q1200", "question": "Where was the place of burial of Boraqchin (Tatar)'s husband?", "type": "compositional"}
+{"qid": "q1201", "question": "Which song was released first, Elastic Heart or Boom Boom Pow?", "type": "comparison"}
+{"qid": "q1202", "question": "Where did Aphareus (Writer)'s father die?", "type": "compositional"}
+{"qid": "q1203", "question": "Which film was released earlier, Robotech: The Movie or Lakeeran?", "type": "comparison"}
+{"qid": "q1204", "question": "Which film has the director who is older than the other, Sign Of The Pagan or Spawn Of The North? ", "type": "bridge_comparison"}
+{"qid": "q1205", "question": "Who is the paternal grandfather of Pierce Somerset Butler?", "type": "inference"}
+{"qid": "q1206", "question": "Where did the director of film Francis The Smuggler die?", "type": "compositional"}
+{"qid": "q1207", "question": "When did Jacob Van Huysum's father die?", "type": "compositional"}
+{"qid": "q1208", "question": "What is the place of birth of the director of film The Grasp Of Greed?", "type": "compositional"}
+{"qid": "q1209", "question": "Which film has the director born later, The Girl In Possession or Así En El Cielo Como En La Tierra?", "type": "bridge_comparison"}
+{"qid": "q1210", "question": "Where was the place of burial of Yakov Dzhugashvili's mother?", "type": "compositional"}
+{"qid": "q1211", "question": "Where was the place of death of Aldetrude's mother?", "type": "compositional"}
+{"qid": "q1212", "question": "Which film has the director who died later, Airport 1975 or The Mad Doctor Of Blood Island?", "type": "bridge_comparison"}
+{"qid": "q1213", "question": "Where did Mirza Ulugh Tahir's father die?", "type": "compositional"}
+{"qid": "q1214", "question": "Which film was released more recently, An Unreasonable Man or Lay The Favorite?", "type": "comparison"}
+{"qid": "q1215", "question": "Which film has the director born first, Betrayal From The East or The Magnificent Beast?", "type": "bridge_comparison"}
+{"qid": "q1216", "question": "Where was the director of film Solaiyamma born?", "type": "compositional"}
+{"qid": "q1217", "question": "Was Prince Albert Hunt or Daniel Tauvry born first?", "type": "comparison"}
+{"qid": "q1218", "question": "What nationality is Callum Saunders's father?", "type": "compositional"}
+{"qid": "q1219", "question": "Where was the director of film You'Ve Been Trumped born?", "type": "compositional"}
+{"qid": "q1220", "question": "Which country Clare Winnicott's husband is from?", "type": "compositional"}
+{"qid": "q1221", "question": "Who is Christian Of Stolberg-Stolberg's father-in-law?", "type": "inference"}
+{"qid": "q1222", "question": "What is the date of death of the director of film My General'S Women?", "type": "compositional"}
+{"qid": "q1223", "question": "Are A Breach Of Silence and The Hutchens from the same country?", "type": "comparison"}
+{"qid": "q1224", "question": "Are Little Sachigo Lake and Holden Lake located in the same country?", "type": "comparison"}
+{"qid": "q1225", "question": "What is the place of birth of the director of film Love Between The Raindrops?", "type": "compositional"}
+{"qid": "q1226", "question": "Do both films, They Didn'T Know and North Of The Border (Film), have the directors who are from the same country?", "type": "bridge_comparison"}
+{"qid": "q1227", "question": "Which film has the director who was born later, Here Comes The Groom or Leatherheads?", "type": "bridge_comparison"}
+{"qid": "q1228", "question": "Which film has the director died earlier, The Fighting Renegade or The Valley Resounds?", "type": "bridge_comparison"}
+{"qid": "q1229", "question": "Which album came out earlier, A New Breed Of Female or Wind, Sky And Diamonds?", "type": "comparison"}
+{"qid": "q1230", "question": "Are William David O'Brien and Bob Galvin of the same nationality?", "type": "comparison"}
+{"qid": "q1231", "question": "Which country Saqr Bin Zayed Al Nahyan's father is from?", "type": "compositional"}
+{"qid": "q1232", "question": "Who was born first out of Mandy Butcher and Boliguibia Ouattara?", "type": "comparison"}
+{"qid": "q1233", "question": "Where did the director of film Hard Promises (1992 Film) graduate from?", "type": "compositional"}
+{"qid": "q1234", "question": "Where was the place of death of the director of film Down In The Delta?", "type": "compositional"}
+{"qid": "q1235", "question": "What is the date of death of Duarte Of Portugal, 4Th Duke Of Guimarães's mother?", "type": "compositional"}
+{"qid": "q1236", "question": "Where did Nellie Grant's father graduate from?", "type": "compositional"}
+{"qid": "q1237", "question": "Which film has the director born earlier, High Society Blues or Counterblast?", "type": "bridge_comparison"}
+{"qid": "q1238", "question": "Which film came out earlier, She Shall Have Music or That Devil, Bateese?", "type": "comparison"}
+{"qid": "q1239", "question": "Which film was released first, El Perseguidor or Face In The Rain?", "type": "comparison"}
+{"qid": "q1240", "question": "Are both Three Girls Lost and Cavite (Film) from the same country?", "type": "comparison"}
+{"qid": "q1241", "question": "Where was the director of film The Alster Case born?", "type": "compositional"}
+{"qid": "q1242", "question": "Who is the maternal grandfather of Suddha Dibyaratana?", "type": "inference"}
+{"qid": "q1243", "question": "Are the directors of both films I Can'T Marry Them All and Come To The Stable from the same country?", "type": "bridge_comparison"}
+{"qid": "q1244", "question": "Where did the director of film Rok Sako To Rok Lo study?", "type": "compositional"}
+{"qid": "q1245", "question": "Which film was released more recently, Muhwagwa or The Policeman Of The 16Th Precinct?", "type": "comparison"}
+{"qid": "q1246", "question": "Which film has the director who was born later, Chronicle Of A Homicide or Death Goes North?", "type": "bridge_comparison"}
+{"qid": "q1247", "question": "Which film has the director who was born later, Marakka Mudiyumaa? or Experiment Perilous?", "type": "bridge_comparison"}
+{"qid": "q1248", "question": "Who is the paternal grandfather of Affreca De Courcy?", "type": "inference"}
+{"qid": "q1249", "question": "Which film has the director died earlier, High Wall or Love By Request?", "type": "bridge_comparison"}
+{"qid": "q1250", "question": "Where was the father of Philip I Of Piedmont born?", "type": "compositional"}
+{"qid": "q1251", "question": "Which university was established first, Universidad Autónoma De La Laguna or Penang Free School?", "type": "comparison"}
+{"qid": "q1252", "question": "Are both Dronningkrona and Leirungstinden located in the same country?", "type": "comparison"}
+{"qid": "q1253", "question": "Which film was released earlier, Nicky'S Family or Tales Of A Long Journey?", "type": "comparison"}
+{"qid": "q1254", "question": "What is the place of birth of the director of film Smile, Brother, Smile?", "type": "compositional"}
+{"qid": "q1255", "question": "What is the date of death of Tello Téllez De Meneses's father?", "type": "compositional"}
+{"qid": "q1256", "question": "Which film came out first, Thappu Thalangal or Of Love And Shadows?", "type": "comparison"}
+{"qid": "q1257", "question": "Where was the place of burial of John Coleman Burroughs's father?", "type": "compositional"}
+{"qid": "q1258", "question": "Which film has the director died earlier, Beast Of The Yellow Night or Shocking Dark?", "type": "bridge_comparison"}
+{"qid": "q1259", "question": "Which film has the director who was born first, Suyetchai Mla or The Rocky Horror Picture Show?", "type": "bridge_comparison"}
+{"qid": "q1260", "question": "What is the date of death of Alfonso Pérez De Guzmán, 5Th Duke Of Medina Sidonia's father?", "type": "compositional"}
+{"qid": "q1261", "question": "Which film has the director died later, A Farmyard Drama or Vienna - Berlin?", "type": "bridge_comparison"}
+{"qid": "q1262", "question": "What is the place of birth of the director of film Ruben Blades Is Not My Name?", "type": "compositional"}
+{"qid": "q1263", "question": "Which film whose director is younger, Last Feelings or The Dog Who Stopped The War?", "type": "bridge_comparison"}
+{"qid": "q1264", "question": "Which film came out first, Victor And Victoria or Zora The Vampire?", "type": "comparison"}
+{"qid": "q1265", "question": "Where was the place of death of the director of film The Touch (1971 Film)?", "type": "compositional"}
+{"qid": "q1266", "question": "Do both films Hearts In Exile (1915 Film) and Sunshine Sally have the directors from the same country?", "type": "bridge_comparison"}
+{"qid": "q1267", "question": "Why did the director of film Secret Defense (1998 Film) die?", "type": "compositional"}
+{"qid": "q1268", "question": "Where was the place of death of the director of film Nobody'S Children (1951 Film)?", "type": "compositional"}
+{"qid": "q1269", "question": "Which film has the director who died first, Honor Of The West or A Esposa Do Solteiro?", "type": "bridge_comparison"}
+{"qid": "q1270", "question": "Who lived longer, Nils Tvedt or Fred Chittick?", "type": "comparison"}
+{"qid": "q1271", "question": "Who is the paternal grandfather of Charles Howard, 7Th Earl Of Suffolk?", "type": "inference"}
+{"qid": "q1272", "question": "Which film came out first, Scratch And Crow or Big Nothing?", "type": "comparison"}
+{"qid": "q1273", "question": "Where did the director of film A Simple Twist Of Fate study?", "type": "compositional"}
+{"qid": "q1274", "question": "Where was the place of death of the director of film Madame Lu?", "type": "compositional"}
+{"qid": "q1275", "question": "Which film has the director died first, Monkey Shines or The Big Show-Off?", "type": "bridge_comparison"}
+{"qid": "q1276", "question": "Were Jack Robertson (Footballer, Born 1902) and Peter Levy (Cinematographer) of the same nationality?", "type": "comparison"}
+{"qid": "q1277", "question": "Where was the place of burial of Ælfwine Of Deira's father?", "type": "compositional"}
+{"qid": "q1278", "question": "Which film has the director who died earlier, Loca Juventud or Den Of Iniquity?", "type": "bridge_comparison"}
+{"qid": "q1279", "question": "Are director of film Ghosts Of Mississippi and director of film The Silence (1998 Film) both from the same country?", "type": "bridge_comparison"}
+{"qid": "q1280", "question": "Where did Swizz Beatz's wife study at?", "type": "compositional"}
+{"qid": "q1281", "question": "Who is the mother-in-law of Adelaide Of Paris?", "type": "inference"}
+{"qid": "q1282", "question": "When did William Ii Crispo's father die?", "type": "compositional"}
+{"qid": "q1283", "question": "Did the movies Love Is In The Hair and Harold & Kumar Escape From Guantanamo Bay, originate from the same country?", "type": "comparison"}
+{"qid": "q1284", "question": "Do both films: Ghost (1990 Film) and 16 Days In Afghanistan have the directors from the same country?", "type": "bridge_comparison"}
+{"qid": "q1285", "question": "What is the place of birth of the director of film The Black Cover?", "type": "compositional"}
+{"qid": "q1286", "question": "Which film was released first, At The Stage Door or Destiny'S Toy?", "type": "comparison"}
+{"qid": "q1287", "question": "Who is Louis Xii Of France's paternal grandfather?", "type": "inference"}
+{"qid": "q1288", "question": "Where did the composer of film Oru Swakaryam die?", "type": "compositional"}
+{"qid": "q1289", "question": "Where did the director of film Daawat-E-Ishq graduate from?", "type": "compositional"}
+{"qid": "q1290", "question": "Which museum was established first, Balzekas Museum Of Lithuanian Culture or Peace Museum, Bradford?", "type": "comparison"}
+{"qid": "q1291", "question": "Where was the father of Pedro Fernández De Híjar born?", "type": "compositional"}
+{"qid": "q1292", "question": "Where did Prince Wolrad Of Waldeck And Pyrmont's mother die?", "type": "compositional"}
+{"qid": "q1293", "question": "What is the place of birth of the director of film 10 Things I Hate About Life?", "type": "compositional"}
+{"qid": "q1294", "question": "What nationality is the director of film Vortex (1976 Film)?", "type": "compositional"}
+{"qid": "q1295", "question": "Where did Elisa Godínez Gómez De Batista's husband die?", "type": "compositional"}
+{"qid": "q1296", "question": "Which film has the director who is older than the other, Confessionsofa Ex-Doofus-Itchyfooted Mutha or Four Dogs Playing Poker? ", "type": "bridge_comparison"}
+{"qid": "q1297", "question": "What is the date of death of Angelica Singleton Van Buren's husband?", "type": "compositional"}
+{"qid": "q1298", "question": "Who is the paternal grandfather of Henrique Da Veiga De Nápoles?", "type": "inference"}
+{"qid": "q1299", "question": "What is the date of birth of Princess Maria Felicita Of Savoy's mother?", "type": "compositional"}
+{"qid": "q1300", "question": "Which film has the director who died earlier, Kansas City Kitty or Side Street Angel?", "type": "bridge_comparison"}

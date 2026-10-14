@@ -1,19 +1,14 @@
 system_name: closed_book
 phase: 1
 split: dev
-description: LLM (gemma-2-2b-it) on CPU, no retrieval, greedy decoding
+description: "Qwen3-8B closed-book, no retrieval, greedy decoding"
 models:
-  llm:
-    name: google/gemma-2-2b-it
-    where: Local CPU (AMD Ryzen 7 3700U)
-    temperature: 0
+  llm: {name: Qwen/Qwen3-8B, where: "Kaggle T4, vLLM, 4-bit AWQ", temperature: 0}
   embedder: null
   reranker: null
 settings:
-  retrieval:
-    unit: null
-    k: 0
-  max_new_tokens: 50
-  prompt_template: strict short-answer
-command: python src/run_closed_book.py --split dev
-date: '2026-10-13'
+  retrieval: {unit: null, k: 0}
+  max_new_tokens: 30
+  prompt_file: prompts/closed_book.txt
+command: "python src/run_closed_book.py --split dev"
+date: 2026-10-14

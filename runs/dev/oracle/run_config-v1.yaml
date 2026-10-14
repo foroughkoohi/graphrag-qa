@@ -1,0 +1,18 @@
+system_name: oracle_context
+phase: 1
+split: dev
+description: gold_doc_ids as context, gemma-2-2b-it on CPU
+models:
+  llm:
+    name: google/gemma-2-2b-it
+    where: Local CPU
+    temperature: 0
+  embedder: null
+  reranker: null
+settings:
+  retrieval:
+    unit: oracle
+    k: all gold
+  max_new_tokens: 30
+command: python src/run_oracle.py --split dev
+date: '2026-10-14'

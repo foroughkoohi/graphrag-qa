@@ -1,0 +1,13 @@
+system_name: dense_rag
+phase: 1
+split: hidden
+description: "bge-small dense top-5 + Qwen3-8B, strict prompt"
+models:
+  llm: {name: Qwen/Qwen3-8B, where: "Kaggle T4, vLLM, 4-bit AWQ", temperature: 0}
+  embedder: BAAI/bge-small-en-v1.5
+  reranker: null
+settings:
+  retrieval: {unit: passage, k: 5}
+  max_new_tokens: 30
+command: "python src/run_dense_rag.py --split hidden --k 5"
+date: 2026-10-14
