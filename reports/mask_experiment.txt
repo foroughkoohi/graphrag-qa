@@ -1,0 +1,19 @@
+Document Mask Experiment Results
+==================================================
+
+Questions tested: 100
+Time: 10.7 seconds
+
+Overall:
+  Recall@10 (no mask) on remaining:  0.4600
+  Recall@10 (with mask) on remaining: 0.4600
+  Drop: +0.0000
+  Mask working correctly: 100/100
+
+Per question type:
+Type                     n    No-Mask R@10     With-Mask R@10       Drop
+----------------------------------------------------------------------
+bridge_comparison       21          0.1429             0.1429    +0.0000
+comparison              20          1.0000             1.0000    +0.0000
+compositional           46          0.3478             0.3478    +0.0000
+inference               13          0.5385             0.5385    +0.0000
