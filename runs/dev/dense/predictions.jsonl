@@ -1,10 +1,300 @@
-{"qid": "q0001", "answer": "yes", "retrieved": ["p02917", "p03320", "p02916", "p03365", "p03691"]}
-{"qid": "q0002", "answer": "escape from l.a", "retrieved": ["p01066", "p03489", "p00788", "p03756", "p01269"]}
+{"qid": "q0001", "answer": "no", "retrieved": ["p02917", "p03320", "p02916", "p03365", "p03691"]}
+{"qid": "q0002", "answer": "the third side of the river", "retrieved": ["p01066", "p03489", "p00788", "p03756", "p01269"]}
 {"qid": "q0003", "answer": "england", "retrieved": ["p03783", "p03782", "p00501", "p02897", "p01783"]}
-{"qid": "q0004", "answer": "henry strutt", "retrieved": ["p01489", "p02967", "p00196", "p02506", "p00970"]}
-{"qid": "q0005", "answer": "shot", "retrieved": ["p02340", "p03258", "p03573", "p00500", "p03019"]}
-{"qid": "q0006", "answer": "georgian-greek", "retrieved": ["p02878", "p01180", "p02862", "p00291", "p02333"]}
+{"qid": "q0004", "answer": "nina škottová", "retrieved": ["p01489", "p02967", "p00196", "p02506", "p00970"]}
+{"qid": "q0005", "answer": "lung failure", "retrieved": ["p02340", "p03258", "p03573", "p00500", "p03019"]}
+{"qid": "q0006", "answer": "georgian", "retrieved": ["p02878", "p01180", "p02862", "p00291", "p02333"]}
 {"qid": "q0007", "answer": "denmark", "retrieved": ["p00393", "p00534", "p02831", "p00410", "p00444"]}
-{"qid": "q0008", "answer": "american", "retrieved": ["p03592", "p01812", "p00091", "p01167", "p03863"]}
-{"qid": "q0009", "answer": "la tour montparnasse infernale", "retrieved": ["p01984", "p01869", "p01983", "p03071", "p02828"]}
-{"qid": "q0010", "answer": "georgetown", "retrieved": ["p01614", "p01829", "p01642", "p01487", "p01652"]}
+{"qid": "q0008", "answer": "no", "retrieved": ["p03592", "p01812", "p00091", "p01167", "p03863"]}
+{"qid": "q0009", "answer": "junior mandrake", "retrieved": ["p01984", "p01869", "p01983", "p03071", "p02828"]}
+{"qid": "q0010", "answer": "georgetown, kentucky", "retrieved": ["p01614", "p01829", "p01642", "p01487", "p01652"]}
+{"qid": "q0011", "answer": "gang war in naples", "retrieved": ["p02949", "p01241", "p00768", "p01240", "p01239"]}
+{"qid": "q0012", "answer": "school on fire", "retrieved": ["p03047", "p02270", "p03332", "p03756", "p00794"]}
+{"qid": "q0013", "answer": "new york city", "retrieved": ["p01543", "p01542", "p00212", "p03629", "p01270"]}
+{"qid": "q0014", "answer": "ventura pons", "retrieved": ["p00590", "p02832", "p02115", "p01612", "p02281"]}
+{"qid": "q0015", "answer": "no", "retrieved": ["p00680", "p00498", "p01689", "p00499", "p03756"]}
+{"qid": "q0016", "answer": "argentine", "retrieved": ["p03732", "p01270", "p02091", "p01750", "p03687"]}
+{"qid": "q0017", "answer": "italy", "retrieved": ["p00851", "p01612", "p03756", "p02899", "p00861"]}
+{"qid": "q0018", "answer": "american", "retrieved": ["p00125", "p00936", "p00688", "p02526", "p00831"]}
+{"qid": "q0019", "answer": "prince alexander of saxe-altenburg", "retrieved": ["p02557", "p02802", "p02760", "p02750", "p02771"]}
+{"qid": "q0020", "answer": "george venables-vernond, 1st baron vernon", "retrieved": ["p00971", "p02538", "p02056", "p02934", "p01163"]}
+{"qid": "q0021", "answer": "antiochus ii", "retrieved": ["p00294", "p00345", "p01493", "p00241", "p02807"]}
+{"qid": "q0022", "answer": "canada", "retrieved": ["p03225", "p02091", "p02937", "p00902", "p02334"]}
+{"qid": "q0023", "answer": "who hesitates is lost", "retrieved": ["p03733", "p03753", "p03142", "p01134", "p02176"]}
+{"qid": "q0024", "answer": "england", "retrieved": ["p00521", "p00408", "p02659", "p01174", "p00591"]}
+{"qid": "q0025", "answer": "charles i of bourbon", "retrieved": ["p01625", "p01620", "p01619", "p00533", "p02790"]}
+{"qid": "q0026", "answer": "berne", "retrieved": ["p02386", "p03656", "p01909", "p02251", "p00613"]}
+{"qid": "q0027", "answer": "czech republic", "retrieved": ["p02881", "p01612", "p01711", "p02303", "p02281"]}
+{"qid": "q0028", "answer": "ada apa dengan cinta?", "retrieved": ["p00083", "p00085", "p00087", "p00097", "p00088"]}
+{"qid": "q0029", "answer": "vienna", "retrieved": ["p00039", "p02668", "p00038", "p01400", "p03753"]}
+{"qid": "q0030", "answer": "giallo a venezia", "retrieved": ["p02259", "p01319", "p02134", "p02889", "p02258"]}
+{"qid": "q0031", "answer": "university of bergen", "retrieved": ["p02992", "p01960", "p02991", "p01762", "p01042"]}
+{"qid": "q0032", "answer": "vienna", "retrieved": ["p01260", "p01595", "p02937", "p01612", "p00491"]}
+{"qid": "q0033", "answer": "the students of springfield street", "retrieved": ["p00709", "p03487", "p00767", "p01944", "p03427"]}
+{"qid": "q0034", "answer": "pittsburgh", "retrieved": ["p00178", "p00177", "p01484", "p00263", "p02111"]}
+{"qid": "q0035", "answer": "crime against joe", "retrieved": ["p03643", "p00771", "p02142", "p01975", "p02115"]}
+{"qid": "q0036", "answer": "shilu", "retrieved": ["p03820", "p00323", "p01444", "p01227", "p03209"]}
+{"qid": "q0037", "answer": "peter i, duke of bourbon", "retrieved": ["p01625", "p01733", "p00662", "p01620", "p01622"]}
+{"qid": "q0038", "answer": "no", "retrieved": ["p01513", "p01391", "p01708", "p03743", "p02091"]}
+{"qid": "q0039", "answer": "no", "retrieved": ["p03308", "p02725", "p03307", "p00586", "p03309"]}
+{"qid": "q0040", "answer": "textfiles.com", "retrieved": ["p00387", "p01612", "p00262", "p00794", "p01196"]}
+{"qid": "q0041", "answer": "the rough and the smooth", "retrieved": ["p01420", "p03452", "p00715", "p03369", "p02138"]}
+{"qid": "q0042", "answer": "air bud: spikes back", "retrieved": ["p01146", "p00586", "p00128", "p03479", "p03296"]}
+{"qid": "q0043", "answer": "saffron walden", "retrieved": ["p01274", "p02355", "p01472", "p03522", "p01469"]}
+{"qid": "q0044", "answer": "before 1322", "retrieved": ["p01774", "p01054", "p01478", "p01041", "p03799"]}
+{"qid": "q0045", "answer": "spanish", "retrieved": ["p01990", "p00720", "p00598", "p01826", "p02624"]}
+{"qid": "q0046", "answer": "australia", "retrieved": ["p03738", "p00729", "p01612", "p01767", "p03753"]}
+{"qid": "q0047", "answer": "university of berlin", "retrieved": ["p02308", "p01220", "p01044", "p02036", "p02363"]}
+{"qid": "q0048", "answer": "shams al-dawla", "retrieved": ["p03208", "p02821", "p02439", "p03022", "p01662"]}
+{"qid": "q0049", "answer": "james parton", "retrieved": ["p02024", "p01674", "p01338", "p02026", "p00913"]}
+{"qid": "q0050", "answer": "french", "retrieved": ["p00513", "p00514", "p02664", "p00533", "p01776"]}
+{"qid": "q0051", "answer": "the shah's prison", "retrieved": ["p02743", "p03260", "p01636", "p00397", "p02807"]}
+{"qid": "q0052", "answer": "los angeles", "retrieved": ["p02100", "p02642", "p00910", "p03019", "p02073"]}
+{"qid": "q0053", "answer": "gniezno", "retrieved": ["p01011", "p02914", "p02913", "p00112", "p00269"]}
+{"qid": "q0054", "answer": "the belly of an architect", "retrieved": ["p03290", "p03710", "p02281", "p03185", "p03711"]}
+{"qid": "q0055", "answer": "shepperton studios", "retrieved": ["p02919", "p00473", "p01612", "p03185", "p02526"]}
+{"qid": "q0056", "answer": "17 september 1979", "retrieved": ["p00698", "p00639", "p00449", "p01295", "p02912"]}
+{"qid": "q0057", "answer": "monsieur des lourdines", "retrieved": ["p02453", "p02411", "p02115", "p03627", "p01852"]}
+{"qid": "q0058", "answer": "sunil dutt", "retrieved": ["p02131", "p02130", "p00193", "p03211", "p00610"]}
+{"qid": "q0059", "answer": "hippolyte-julien-joseph lucas", "retrieved": ["p01524", "p01249", "p01248", "p01854", "p01832"]}
+{"qid": "q0060", "answer": "mumbai", "retrieved": ["p03023", "p01641", "p01888", "p02982", "p01930"]}
+{"qid": "q0061", "answer": "5 june 1568", "retrieved": ["p02692", "p01778", "p01777", "p02688", "p02006"]}
+{"qid": "q0062", "answer": "los amantes del señor de la noche", "retrieved": ["p02166", "p02105", "p02075", "p01980", "p01981"]}
+{"qid": "q0063", "answer": "bohemond iii of antioch", "retrieved": ["p00524", "p00525", "p01493", "p02867", "p02675"]}
+{"qid": "q0064", "answer": "german", "retrieved": ["p01860", "p01901", "p02210", "p02595", "p02234"]}
+{"qid": "q0065", "answer": "cupids round up", "retrieved": ["p00786", "p03625", "p01269", "p00227", "p03706"]}
+{"qid": "q0066", "answer": "herbrand russell", "retrieved": ["p01413", "p02122", "p00251", "p01503", "p01161"]}
+{"qid": "q0067", "answer": "almería", "retrieved": ["p03117", "p00828", "p01070", "p02371", "p03146"]}
+{"qid": "q0068", "answer": "no", "retrieved": ["p01659", "p02470", "p00777", "p03185", "p01395"]}
+{"qid": "q0069", "answer": "los angeles", "retrieved": ["p03449", "p01400", "p03753", "p02155", "p02899"]}
+{"qid": "q0070", "answer": "brodick castle", "retrieved": ["p03215", "p00277", "p03761", "p01997", "p03640"]}
+{"qid": "q0071", "answer": "los angeles", "retrieved": ["p00582", "p01192", "p03629", "p01452", "p00618"]}
+{"qid": "q0072", "answer": "bedtime with rosie", "retrieved": ["p00436", "p01817", "p01816", "p02659", "p01746"]}
+{"qid": "q0073", "answer": "eugenio derbez", "retrieved": ["p01600", "p01174", "p03185", "p02091", "p01076"]}
+{"qid": "q0074", "answer": "byrde m. vaughan", "retrieved": ["p02301", "p00571", "p02300", "p01192", "p02305"]}
+{"qid": "q0075", "answer": "yes", "retrieved": ["p01977", "p00231", "p01976", "p01391", "p03456"]}
+{"qid": "q0076", "answer": "the student's romance", "retrieved": ["p03486", "p03826", "p03001", "p03332", "p01612"]}
+{"qid": "q0077", "answer": "no", "retrieved": ["p01910", "p02532", "p03688", "p01501", "p02519"]}
+{"qid": "q0078", "answer": "5 år – som vi så dem", "retrieved": ["p00024", "p00017", "p02574", "p03110", "p02570"]}
+{"qid": "q0079", "answer": "les espions", "retrieved": ["p03391", "p02053", "p03392", "p01538", "p02019"]}
+{"qid": "q0080", "answer": "eliška krásnohorská", "retrieved": ["p02104", "p01016", "p00212", "p02368", "p01496"]}
+{"qid": "q0081", "answer": "ribagorza", "retrieved": ["p00377", "p01621", "p00513", "p02237", "p00750"]}
+{"qid": "q0082", "answer": "donovan's echo", "retrieved": ["p00911", "p01334", "p00607", "p03721", "p00608"]}
+{"qid": "q0083", "answer": "maria theresia of austria-este", "retrieved": ["p02756", "p02755", "p03162", "p00245", "p02778"]}
+{"qid": "q0084", "answer": "bombay to bangkok", "retrieved": ["p00528", "p02879", "p02812", "p02815", "p02507"]}
+{"qid": "q0085", "answer": "the empty saddle", "retrieved": ["p03333", "p01525", "p02448", "p00861", "p03112"]}
+{"qid": "q0086", "answer": "hong kong", "retrieved": ["p02038", "p00259", "p02624", "p01264", "p00831"]}
+{"qid": "q0087", "answer": "noi siamo due evasi", "retrieved": ["p02514", "p03687", "p02142", "p00932", "p02367"]}
+{"qid": "q0088", "answer": "yes", "retrieved": ["p02520", "p02521", "p00133", "p02951", "p00785"]}
+{"qid": "q0089", "answer": "25 august 1442", "retrieved": ["p02158", "p03609", "p02159", "p02160", "p02161"]}
+{"qid": "q0090", "answer": "queen dowager uiseong", "retrieved": ["p02823", "p01026", "p00913", "p01365", "p01375"]}
+{"qid": "q0091", "answer": "hollywood", "retrieved": ["p02461", "p02277", "p03753", "p01642", "p02695"]}
+{"qid": "q0092", "answer": "the ballad of gregorio cortez", "retrieved": ["p03288", "p02457", "p02937", "p02456", "p02953"]}
+{"qid": "q0093", "answer": "the seventh sword", "retrieved": ["p03463", "p03371", "p01174", "p03685", "p00618"]}
+{"qid": "q0094", "answer": "queen consort of cyprus", "retrieved": ["p02824", "p02289", "p00913", "p01213", "p00228"]}
+{"qid": "q0095", "answer": "charles d'évreux", "retrieved": ["p02114", "p02112", "p02119", "p02113", "p02120"]}
+{"qid": "q0096", "answer": "casale monferrato", "retrieved": ["p00228", "p01779", "p02845", "p02876", "p02240"]}
+{"qid": "q0097", "answer": "1812", "retrieved": ["p03764", "p01009", "p03768", "p03767", "p03763"]}
+{"qid": "q0098", "answer": "no", "retrieved": ["p01179", "p03593", "p01701", "p01177", "p01178"]}
+{"qid": "q0099", "answer": "china", "retrieved": ["p03143", "p02526", "p01737", "p02319", "p01298"]}
+{"qid": "q0100", "answer": "australian", "retrieved": ["p01745", "p03746", "p01809", "p01762", "p02660"]}
+{"qid": "q0101", "answer": "who is the guilty", "retrieved": ["p01975", "p03734", "p02115", "p00567", "p01655"]}
+{"qid": "q0102", "answer": "the millennial bee", "retrieved": ["p03413", "p01935", "p01863", "p03570", "p01134"]}
+{"qid": "q0103", "answer": "susan thornton glassell", "retrieved": ["p01288", "p01289", "p02111", "p00722", "p00263"]}
+{"qid": "q0104", "answer": "ottoman empire", "retrieved": ["p03880", "p03879", "p03882", "p03881", "p01932"]}
+{"qid": "q0105", "answer": "san diego", "retrieved": ["p01538", "p01831", "p01612", "p00794", "p01767"]}
+{"qid": "q0106", "answer": "fernando gutiérrez de castro", "retrieved": ["p01122", "p01121", "p02952", "p02049", "p01359"]}
+{"qid": "q0107", "answer": "no", "retrieved": ["p01390", "p02654", "p03370", "p00825", "p02720"]}
+{"qid": "q0108", "answer": "no greater glory", "retrieved": ["p02509", "p03068", "p03368", "p02659", "p01269"]}
+{"qid": "q0109", "answer": "kathputli is a film, not a person, so no place of death", "retrieved": ["p01907", "p01887", "p01903", "p01641", "p01370"]}
+{"qid": "q0110", "answer": "king taufaahau tupou iv", "retrieved": ["p01375", "p03616", "p02477", "p02016", "p01916"]}
+{"qid": "q0111", "answer": "30 march 1785", "retrieved": ["p00645", "p00156", "p00644", "p01467", "p02355"]}
+{"qid": "q0112", "answer": "katha sangama", "retrieved": ["p01905", "p00825", "p01531", "p02728", "p01370"]}
+{"qid": "q0113", "answer": "akershus fortress", "retrieved": ["p02230", "p03666", "p02239", "p02786", "p01015"]}
+{"qid": "q0114", "answer": "the unguarded hour", "retrieved": ["p03503", "p03502", "p02835", "p03570", "p00788"]}
+{"qid": "q0115", "answer": "yes", "retrieved": ["p03067", "p03802", "p03066", "p01630", "p03687"]}
+{"qid": "q0116", "answer": "to answer the question, we need to identify the mother of antonio flores and then determine her birthplace", "retrieved": ["p00301", "p00302", "p00303", "p00782", "p00304"]}
+{"qid": "q0117", "answer": "yes", "retrieved": ["p01891", "p01942", "p01880", "p03174", "p02456"]}
+{"qid": "q0118", "answer": "new york city", "retrieved": ["p00502", "p02329", "p01932", "p00323", "p03851"]}
+{"qid": "q0119", "answer": "rangula ratnam", "retrieved": ["p02859", "p02551", "p02554", "p02555", "p02552"]}
+{"qid": "q0120", "answer": "ukiah california", "retrieved": ["p02392", "p02839", "p01840", "p03742", "p01180"]}
+{"qid": "q0121", "answer": "march of the penguins", "retrieved": ["p03002", "p02200", "p02138", "p02424", "p02937"]}
+{"qid": "q0122", "answer": "november 15 1955", "retrieved": ["p03626", "p02091", "p03753", "p01612", "p02354"]}
+{"qid": "q0123", "answer": "conejos, colorado", "retrieved": ["p00677", "p01047", "p02536", "p02233", "p02688"]}
+{"qid": "q0124", "answer": "france", "retrieved": ["p02149", "p00636", "p02289", "p01434", "p01164"]}
+{"qid": "q0125", "answer": "chlothar iii's father was clovis ii, and clovis ii's father was clotaire iv. so the paternal grandfather of ch", "retrieved": ["p00679", "p01213", "p01227", "p00323", "p01932"]}
+{"qid": "q0126", "answer": "bonna of savoy", "retrieved": ["p00481", "p01606", "p01235", "p02233", "p01616"]}
+{"qid": "q0127", "answer": "antonieta", "retrieved": ["p03624", "p00296", "p02818", "p00105", "p00332"]}
+{"qid": "q0128", "answer": "nenjinile", "retrieved": ["p02484", "p00391", "p00392", "p03200", "p03524"]}
+{"qid": "q0129", "answer": "viktor šiljeg", "retrieved": ["p02776", "p02126", "p02123", "p02740", "p02778"]}
+{"qid": "q0130", "answer": "spain", "retrieved": ["p00999", "p00301", "p00998", "p01626", "p02236"]}
+{"qid": "q0131", "answer": "the laramie kid", "retrieved": ["p01078", "p03390", "p03332", "p00794", "p00777"]}
+{"qid": "q0132", "answer": "armenia", "retrieved": ["p03857", "p01626", "p01932", "p02238", "p02688"]}
+{"qid": "q0133", "answer": "princess feodora of denmark", "retrieved": ["p02751", "p02745", "p02753", "p01436", "p02741"]}
+{"qid": "q0134", "answer": "adoor bhasi", "retrieved": ["p01937", "p03211", "p03089", "p01881", "p01612"]}
+{"qid": "q0135", "answer": "baha' al- dawla", "retrieved": ["p02821", "p03022", "p03208", "p00384", "p00001"]}
+{"qid": "q0136", "answer": "abner pratt", "retrieved": ["p00859", "p00075", "p01760", "p02696", "p03756"]}
+{"qid": "q0137", "answer": "thuringia", "retrieved": ["p00151", "p00144", "p00115", "p01208", "p01002"]}
+{"qid": "q0138", "answer": "charles scribner's sons", "retrieved": ["p03292", "p02699", "p03059", "p03291", "p00487"]}
+{"qid": "q0139", "answer": "the heart of nora flynn", "retrieved": ["p00052", "p03375", "p03112", "p03114", "p03332"]}
+{"qid": "q0140", "answer": "yes", "retrieved": ["p03166", "p03828", "p03829", "p03087", "p01692"]}
+{"qid": "q0141", "answer": "american", "retrieved": ["p03411", "p03753", "p03741", "p00366", "p03410"]}
+{"qid": "q0142", "answer": "jesse lee petty", "retrieved": ["p00755", "p00756", "p00754", "p01722", "p02559"]}
+{"qid": "q0143", "answer": "turkey", "retrieved": ["p03881", "p03879", "p02173", "p01932", "p00219"]}
+{"qid": "q0144", "answer": "fay wray", "retrieved": ["p00267", "p00861", "p00902", "p02803", "p01750"]}
+{"qid": "q0145", "answer": "czechoslovakia", "retrieved": ["p03434", "p00829", "p03753", "p01760", "p03756"]}
+{"qid": "q0146", "answer": "kalisz", "retrieved": ["p01658", "p01909", "p00314", "p02217", "p02376"]}
+{"qid": "q0147", "answer": "marion gray", "retrieved": ["p02261", "p02260", "p01790", "p01808", "p03537"]}
+{"qid": "q0148", "answer": "defeat of the mafia", "retrieved": ["p00857", "p00844", "p03382", "p03339", "p02142"]}
+{"qid": "q0149", "answer": "the question is about the cause of death of the performer of the song \"oh boy, oh boy, oh boy!\"", "retrieved": ["p02546", "p02547", "p00553", "p02543", "p00500"]}
+{"qid": "q0150", "answer": "september 11 1765", "retrieved": ["p00950", "p03552", "p00822", "p00221", "p00953"]}
+{"qid": "q0151", "answer": "no", "retrieved": ["p00633", "p03443", "p00557", "p03428", "p01145"]}
+{"qid": "q0152", "answer": "1730", "retrieved": ["p02800", "p03616", "p02209", "p00060", "p02782"]}
+{"qid": "q0153", "answer": "sir archibald campbell", "retrieved": ["p01749", "p03542", "p03749", "p01323", "p01227"]}
+{"qid": "q0154", "answer": "regina of saxe-meiningen", "retrieved": ["p01113", "p00323", "p01901", "p02234", "p02595"]}
+{"qid": "q0155", "answer": "speak easily", "retrieved": ["p03169", "p01979", "p01974", "p03403", "p01973"]}
+{"qid": "q0156", "answer": "femme like u (donne-moi ton corps) to answer the question of which song was released earlier between \"femme like u (donne", "retrieved": ["p01112", "p01127", "p01126", "p02100", "p00909"]}
+{"qid": "q0157", "answer": "roger corman", "retrieved": ["p03400", "p02717", "p03756", "p01750", "p01148"]}
+{"qid": "q0158", "answer": "no", "retrieved": ["p02473", "p02470", "p01233", "p03602", "p02472"]}
+{"qid": "q0159", "answer": "el robo al tren correo", "retrieved": ["p00990", "p03331", "p02367", "p03077", "p00091"]}
+{"qid": "q0160", "answer": "mumbai", "retrieved": ["p02384", "p01326", "p02946", "p02974", "p02904"]}
+{"qid": "q0161", "answer": "hollywood", "retrieved": ["p01844", "p03753", "p01642", "p03877", "p02899"]}
+{"qid": "q0162", "answer": "17 february 1797", "retrieved": ["p02221", "p02791", "p00272", "p02762", "p00270"]}
+{"qid": "q0163", "answer": "los angeles", "retrieved": ["p02409", "p01812", "p00212", "p00287", "p02073"]}
+{"qid": "q0164", "answer": "no", "retrieved": ["p03476", "p01446", "p03475", "p03477", "p00335"]}
+{"qid": "q0165", "answer": "france", "retrieved": ["p01418", "p02281", "p02659", "p02943", "p00794"]}
+{"qid": "q0166", "answer": "sherlock bristol", "retrieved": ["p02558", "p03097", "p02957", "p00936", "p00288"]}
+{"qid": "q0167", "answer": "fairfax county, virginia", "retrieved": ["p03544", "p03546", "p03545", "p03542", "p01281"]}
+{"qid": "q0168", "answer": "abdullah abu azzam al-iraqi", "retrieved": ["p00065", "p01545", "p00063", "p03015", "p00066"]}
+{"qid": "q0169", "answer": "no", "retrieved": ["p02732", "p00508", "p02389", "p00638", "p01612"]}
+{"qid": "q0170", "answer": "university of southern california", "retrieved": ["p03531", "p01612", "p03301", "p02303", "p03185"]}
+{"qid": "q0171", "answer": "no", "retrieved": ["p00298", "p03098", "p03589", "p00297", "p01831"]}
+{"qid": "q0172", "answer": "yes", "retrieved": ["p00731", "p03328", "p02142", "p00441", "p02985"]}
+{"qid": "q0173", "answer": "no", "retrieved": ["p00478", "p01747", "p03001", "p01767", "p00227"]}
+{"qid": "q0174", "answer": "satiricosissimo", "retrieved": ["p00590", "p03038", "p02115", "p02142", "p01252"]}
+{"qid": "q0175", "answer": "salem, massachusetts", "retrieved": ["p03160", "p02467", "p01181", "p03876", "p01029"]}
+{"qid": "q0176", "answer": "christian ix of denmark", "retrieved": ["p02777", "p02776", "p01902", "p02749", "p02778"]}
+{"qid": "q0177", "answer": "vicky grau", "retrieved": ["p03659", "p02670", "p02666", "p02267", "p03249"]}
+{"qid": "q0178", "answer": "argentina", "retrieved": ["p00570", "p02064", "p00598", "p02148", "p00620"]}
+{"qid": "q0179", "answer": "maria komnene", "retrieved": ["p02690", "p02691", "p01624", "p01810", "p02688"]}
+{"qid": "q0180", "answer": "genghis khan", "retrieved": ["p00330", "p01548", "p02243", "p00913", "p01380"]}
+{"qid": "q0181", "answer": "see naples and die", "retrieved": ["p03064", "p03062", "p02142", "p01174", "p01134"]}
+{"qid": "q0182", "answer": "the soviet story", "retrieved": ["p03481", "p01445", "p01612", "p03075", "p01174"]}
+{"qid": "q0183", "answer": "tracy rides", "retrieved": ["p03597", "p03223", "p02918", "p02731", "p03026"]}
+{"qid": "q0184", "answer": "humphrey edwardes-jones", "retrieved": ["p03865", "p00720", "p01554", "p02097", "p01826"]}
+{"qid": "q0185", "answer": "pomerania", "retrieved": ["p01001", "p00269", "p02223", "p00317", "p03161"]}
+{"qid": "q0186", "answer": "corrections class", "retrieved": ["p00762", "p01111", "p01110", "p00775", "p00777"]}
+{"qid": "q0187", "answer": "eric iv of denmark", "retrieved": ["p00114", "p00113", "p01213", "p01164", "p00112"]}
+{"qid": "q0188", "answer": "american", "retrieved": ["p03461", "p03460", "p03059", "p03060", "p03311"]}
+{"qid": "q0189", "answer": "yes", "retrieved": ["p00626", "p00624", "p00578", "p00782", "p01838"]}
+{"qid": "q0190", "answer": "the answer is: ceolred", "retrieved": ["p03871", "p03872", "p03874", "p02584", "p03869"]}
+{"qid": "q0191", "answer": "wales", "retrieved": ["p03720", "p03005", "p03146", "p01224", "p03585"]}
+{"qid": "q0192", "answer": "free willy: escape from pirate's cove", "retrieved": ["p01215", "p02567", "p02569", "p00933", "p02562"]}
+{"qid": "q0193", "answer": "son of cain", "retrieved": ["p03155", "p03429", "p03409", "p00866", "p00867"]}
+{"qid": "q0194", "answer": "lung cancer", "retrieved": ["p01371", "p03827", "p01932", "p03551", "p00264"]}
+{"qid": "q0195", "answer": "no", "retrieved": ["p02441", "p02440", "p02639", "p02265", "p03484"]}
+{"qid": "q0196", "answer": "april 29 1923", "retrieved": ["p00217", "p01612", "p01283", "p02904", "p02303"]}
+{"qid": "q0197", "answer": "the singer of pre (band) is akiko matsuura, who is japanese. so the answer is japanese", "retrieved": ["p02730", "p01959", "p00132", "p00349", "p01180"]}
+{"qid": "q0198", "answer": "yes", "retrieved": ["p00344", "p00977", "p02089", "p02315", "p01595"]}
+{"qid": "q0199", "answer": "scanners", "retrieved": ["p03044", "p00479", "p02667", "p01370", "p01134"]}
+{"qid": "q0200", "answer": "a peasant on a bicycle", "retrieved": ["p01957", "p00041", "p02154", "p02634", "p01930"]}
+{"qid": "q0201", "answer": "winterset, iowa", "retrieved": ["p02359", "p02358", "p02349", "p02360", "p01808"]}
+{"qid": "q0202", "answer": "no", "retrieved": ["p03233", "p01867", "p00091", "p01737", "p01871"]}
+{"qid": "q0203", "answer": "autumn spring", "retrieved": ["p01944", "p00376", "p01264", "p00794", "p03239"]}
+{"qid": "q0204", "answer": "the singing fool", "retrieved": ["p01987", "p03470", "p03685", "p03335", "p03038"]}
+{"qid": "q0205", "answer": "trebizond", "retrieved": ["p01773", "p00180", "p01610", "p00395", "p02238"]}
+{"qid": "q0206", "answer": "hitler's folly", "retrieved": ["p01527", "p03108", "p03454", "p00835", "p01867"]}
+{"qid": "q0207", "answer": "reed college", "retrieved": ["p02833", "p00716", "p02111", "p00219", "p00252"]}
+{"qid": "q0208", "answer": "peter burroughs", "retrieved": ["p00437", "p02660", "p02281", "p01247", "p00835"]}
+{"qid": "q0209", "answer": "nickel queen", "retrieved": ["p02497", "p00040", "p03426", "p02091", "p02171"]}
+{"qid": "q0210", "answer": "los angeles", "retrieved": ["p00777", "p00776", "p00778", "p00772", "p01831"]}
+{"qid": "q0211", "answer": "the first rains of spring", "retrieved": ["p03651", "p03346", "p03297", "p02200", "p02598"]}
+{"qid": "q0212", "answer": "new york city", "retrieved": ["p03352", "p02091", "p00778", "p03301", "p01174"]}
+{"qid": "q0213", "answer": "testaments of orpheus", "retrieved": ["p03273", "p02581", "p03698", "p01708", "p01108"]}
+{"qid": "q0214", "answer": "brazilian", "retrieved": ["p01604", "p02862", "p01180", "p00170", "p01452"]}
+{"qid": "q0215", "answer": "english", "retrieved": ["p00770", "p01612", "p00809", "p01655", "p02142"]}
+{"qid": "q0216", "answer": "free guy", "retrieved": ["p01141", "p01214", "p01142", "p02280", "p02926"]}
+{"qid": "q0217", "answer": "soviet union", "retrieved": ["p03045", "p01638", "p01746", "p03756", "p02319"]}
+{"qid": "q0218", "answer": "guatemala city", "retrieved": ["p01511", "p00305", "p02536", "p02807", "p02227"]}
+{"qid": "q0219", "answer": "the very eye of night", "retrieved": ["p03509", "p01017", "p03426", "p01174", "p01657"]}
+{"qid": "q0220", "answer": "armando robles godoy", "retrieved": ["p02393", "p02366", "p01769", "p02904", "p01767"]}
+{"qid": "q0221", "answer": "dead daughters", "retrieved": ["p03269", "p00848", "p03756", "p02417", "p00794"]}
+{"qid": "q0222", "answer": "voyage of the rock aliens", "retrieved": ["p00432", "p03680", "p00433", "p00430", "p00434"]}
+{"qid": "q0223", "answer": "los angeles", "retrieved": ["p02527", "p01192", "p03019", "p01270", "p03254"]}
+{"qid": "q0224", "answer": "bertina lopez", "retrieved": ["p00472", "p03562", "p00471", "p02097", "p02053"]}
+{"qid": "q0225", "answer": "others: a magazine of the new verse", "retrieved": ["p02589", "p02599", "p03313", "p01081", "p03311"]}
+{"qid": "q0226", "answer": "charles ii of albret", "retrieved": ["p02118", "p00652", "p03876", "p00153", "p00610"]}
+{"qid": "q0227", "answer": "dracula in the provinces", "retrieved": ["p00924", "p03458", "p00989", "p02539", "p02961"]}
+{"qid": "q0228", "answer": "yes", "retrieved": ["p01312", "p03638", "p03636", "p01311", "p02528"]}
+{"qid": "q0229", "answer": "wild boys of the road", "retrieved": ["p03282", "p03737", "p00936", "p00659", "p00605"]}
+{"qid": "q0230", "answer": "maid in sweden", "retrieved": ["p03702", "p02175", "p01641", "p00334", "p01877"]}
+{"qid": "q0231", "answer": "magic town", "retrieved": ["p02171", "p01254", "p03036", "p03756", "p03190"]}
+{"qid": "q0232", "answer": "45 calibre echo", "retrieved": ["p00535", "p00016", "p02138", "p02075", "p00902"]}
+{"qid": "q0233", "answer": "barry kirwan", "retrieved": ["p01706", "p00410", "p01612", "p02169", "p01703"]}
+{"qid": "q0234", "answer": "auburn", "retrieved": ["p01105", "p01151", "p03760", "p00092", "p01015"]}
+{"qid": "q0235", "answer": "preslav", "retrieved": ["p02220", "p00545", "p00110", "p02557", "p00613"]}
+{"qid": "q0236", "answer": "auguste-louis lepère", "retrieved": ["p00363", "p02637", "p00472", "p02251", "p02799"]}
+{"qid": "q0237", "answer": "usa", "retrieved": ["p02710", "p00442", "p01146", "p02879", "p01763"]}
+{"qid": "q0238", "answer": "king john vi", "retrieved": ["p01589", "p01590", "p02224", "p02233", "p01593"]}
+{"qid": "q0239", "answer": "george iii", "retrieved": ["p02796", "p02799", "p02770", "p02752", "p02763"]}
+{"qid": "q0240", "answer": "oxnard california", "retrieved": ["p01108", "p01612", "p01183", "p01174", "p02155"]}
+{"qid": "q0241", "answer": "país do desejo", "retrieved": ["p00559", "p02640", "p01320", "p01508", "p02985"]}
+{"qid": "q0242", "answer": "ukraine", "retrieved": ["p03330", "p03329", "p00835", "p03389", "p00794"]}
+{"qid": "q0243", "answer": "new zealand", "retrieved": ["p03596", "p02265", "p00091", "p00298", "p00831"]}
+{"qid": "q0244", "answer": "yes", "retrieved": ["p02871", "p00018", "p02872", "p03454", "p03445"]}
+{"qid": "q0245", "answer": "minna haapkylä", "retrieved": ["p03381", "p00809", "p01921", "p01612", "p02468"]}
+{"qid": "q0246", "answer": "caerphilly castle", "retrieved": ["p00960", "p01015", "p00961", "p02689", "p00993"]}
+{"qid": "q0247", "answer": "casa da mãe joana", "retrieved": ["p02601", "p00601", "p00602", "p03391", "p02833"]}
+{"qid": "q0248", "answer": "alexander scopelli casanova", "retrieved": ["p02373", "p00159", "p00158", "p02973", "p00615"]}
+{"qid": "q0249", "answer": "what's bin did and what's bin hid", "retrieved": ["p03721", "p00738", "p03150", "p00608", "p02573"]}
+{"qid": "q0250", "answer": "oslo", "retrieved": ["p00447", "p02978", "p01684", "p00505", "p01876"]}
+{"qid": "q0251", "answer": "malaysian", "retrieved": ["p01577", "p02319", "p02087", "p02508", "p01612"]}
+{"qid": "q0252", "answer": "oronzo pugliese", "retrieved": ["p02580", "p02060", "p00962", "p00193", "p02059"]}
+{"qid": "q0253", "answer": "noir et blanc", "retrieved": ["p02516", "p03171", "p00711", "p00861", "p01612"]}
+{"qid": "q0254", "answer": "constantinople", "retrieved": ["p01367", "p02325", "p03015", "p01365", "p01932"]}
+{"qid": "q0255", "answer": "massachusetts", "retrieved": ["p01949", "p02350", "p00913", "p01423", "p02761"]}
+{"qid": "q0256", "answer": "the director of film just a kiss (film) is fisher stevens. fisher stevens has not received any notable awards mentioned in the context. therefore, the", "retrieved": ["p01872", "p01269", "p00788", "p00453", "p02367"]}
+{"qid": "q0257", "answer": "around the fur", "retrieved": ["p00337", "p01941", "p03150", "p01409", "p00910"]}
+{"qid": "q0258", "answer": "ted garry", "retrieved": ["p01580", "p03255", "p03257", "p03258", "p03254"]}
+{"qid": "q0259", "answer": "en sømand går i land", "retrieved": ["p01881", "p01033", "p00131", "p03826", "p00676"]}
+{"qid": "q0260", "answer": "leonas milčius", "retrieved": ["p01683", "p02048", "p01959", "p03661", "p01688"]}
+{"qid": "q0261", "answer": "antium", "retrieved": ["p00718", "p02763", "p02221", "p02759", "p00371"]}
+{"qid": "q0262", "answer": "get crazy", "retrieved": ["p02986", "p02987", "p02988", "p01404", "p01309"]}
+{"qid": "q0263", "answer": "my wife's best friend", "retrieved": ["p02448", "p01373", "p01525", "p02142", "p02449"]}
+{"qid": "q0264", "answer": "no", "retrieved": ["p02922", "p03532", "p03533", "p02029", "p02335"]}
+{"qid": "q0265", "answer": "arkansas", "retrieved": ["p00207", "p00206", "p01442", "p02122", "p00913"]}
+{"qid": "q0266", "answer": "richard thorpe", "retrieved": ["p00049", "p02904", "p02354", "p02091", "p01283"]}
+{"qid": "q0267", "answer": "invasion of the bee girls", "retrieved": ["p00674", "p01602", "p03413", "p00266", "p02442"]}
+{"qid": "q0268", "answer": "los angeles", "retrieved": ["p03628", "p03185", "p02303", "p01196", "p00831"]}
+{"qid": "q0269", "answer": "1880", "retrieved": ["p00374", "p02275", "p03203", "p03304", "p02599"]}
+{"qid": "q0270", "answer": "suicide", "retrieved": ["p00676", "p01641", "p00565", "p01887", "p00072"]}
+{"qid": "q0271", "answer": "american", "retrieved": ["p03415", "p03414", "p03239", "p01188", "p01767"]}
+{"qid": "q0272", "answer": "detroit", "retrieved": ["p02042", "p01834", "p01798", "p00139", "p00843"]}
+{"qid": "q0273", "answer": "everyone else", "retrieved": ["p01082", "p03359", "p00286", "p02904", "p01247"]}
+{"qid": "q0274", "answer": "mcdudd: rise of the rice cooker", "retrieved": ["p02583", "p02317", "p01174", "p02298", "p02319"]}
+{"qid": "q0275", "answer": "almería", "retrieved": ["p01070", "p00828", "p01358", "p03864", "p01038"]}
+{"qid": "q0276", "answer": "scribner's monthly", "retrieved": ["p03060", "p03059", "p02699", "p03311", "p00232"]}
+{"qid": "q0277", "answer": "28 august 1473", "retrieved": ["p02172", "p02693", "p00101", "p00147", "p03777"]}
+{"qid": "q0278", "answer": "no", "retrieved": ["p01661", "p01898", "p00627", "p03082", "p01886"]}
+{"qid": "q0279", "answer": "marie belkine", "retrieved": ["p02242", "p02249", "p02536", "p02252", "p00121"]}
+{"qid": "q0280", "answer": "museum of croatian archaeological monuments", "retrieved": ["p02437", "p00423", "p00817", "p01073", "p00245"]}
+{"qid": "q0281", "answer": "frank kühne", "retrieved": ["p03196", "p01182", "p00460", "p01180", "p02507"]}
+{"qid": "q0282", "answer": "nure sof", "retrieved": ["p02174", "p02326", "p01893", "p01576", "p00123"]}
+{"qid": "q0283", "answer": "magnus julius de la gardie", "retrieved": ["p01428", "p01430", "p02594", "p01094", "p03162"]}
+{"qid": "q0284", "answer": "alexandra pelosi", "retrieved": ["p00708", "p00182", "p01714", "p02369", "p02803"]}
+{"qid": "q0285", "answer": "maría elena velasco", "retrieved": ["p03587", "p00932", "p03078", "p02142", "p03089"]}
+{"qid": "q0286", "answer": "9 march 1888", "retrieved": ["p02783", "p02782", "p02209", "p02744", "p01209"]}
+{"qid": "q0287", "answer": "john of ibelin", "retrieved": ["p01624", "p01810", "p01619", "p00402", "p02790"]}
+{"qid": "q0288", "answer": "noël mitrani", "retrieved": ["p01314", "p00042", "p00470", "p01313", "p02526"]}
+{"qid": "q0289", "answer": "three girls in white", "retrieved": ["p03556", "p01863", "p01328", "p03555", "p03554"]}
+{"qid": "q0290", "answer": "no one is mentioned", "retrieved": ["p03376", "p00172", "p01192", "p03548", "p03273"]}
+{"qid": "q0291", "answer": "celine: through the eyes of the world", "retrieved": ["p00621", "p00887", "p02157", "p00692", "p02508"]}
+{"qid": "q0292", "answer": "a matter of morals", "retrieved": ["p00035", "p01968", "p02115", "p00256", "p00809"]}
+{"qid": "q0293", "answer": "italian", "retrieved": ["p03339", "p00299", "p02142", "p01326", "p02367"]}
+{"qid": "q0294", "answer": "alexios i komnenos", "retrieved": ["p02226", "p02227", "p00180", "p00186", "p02502"]}
+{"qid": "q0295", "answer": "fred keays", "retrieved": ["p01198", "p03759", "p00443", "p03682", "p01736"]}
+{"qid": "q0296", "answer": "fred keays", "retrieved": ["p01198", "p03759", "p00443", "p02302", "p01736"]}
+{"qid": "q0297", "answer": "the bounce back", "retrieved": ["p03299", "p03466", "p00550", "p03414", "p03467"]}
+{"qid": "q0298", "answer": "yes", "retrieved": ["p02576", "p00406", "p01370", "p02847", "p00105"]}
+{"qid": "q0299", "answer": "empress charles i of austria", "retrieved": ["p03688", "p00323", "p01860", "p01616", "p01901"]}
+{"qid": "q0300", "answer": "louisa montagu countess of sandwich", "retrieved": ["p01995", "p01284", "p02763", "p00275", "p02622"]}
