@@ -1,0 +1,21 @@
+system_name: closed_book
+phase: 1
+split: dev
+description: Qwen3-8B AWQ via vLLM, no retrieval, strict prompt
+models:
+  llm:
+    name: alphadua/qwen3-8b-awq-community
+    base_model: Qwen/Qwen3-8B
+    quantization: awq
+    where: Kaggle T4, vLLM 0.11.0
+    temperature: 0
+  embedder: null
+  reranker: null
+settings:
+  retrieval:
+    unit: null
+    k: 0
+  max_new_tokens: 30
+  prompt_template: strict short-answer
+command: 'Kaggle notebook: closed-book on dev'
+date: '2026-10-17'

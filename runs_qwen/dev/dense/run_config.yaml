@@ -1,0 +1,21 @@
+system_name: dense
+phase: 1
+split: dev
+description: bge-small dense retrieval top-10, Qwen3-8B AWQ via vLLM, strict prompt
+models:
+  llm:
+    name: alphadua/qwen3-8b-awq-community
+    base_model: Qwen/Qwen3-8B
+    quantization: awq
+    where: Kaggle T4, vLLM 0.11.0
+    temperature: 0
+  embedder: BAAI/bge-small-en-v1.5
+  reranker: null
+settings:
+  retrieval:
+    unit: passage
+    k: 10
+  max_new_tokens: 30
+  prompt_template: strict short-answer
+command: 'Kaggle notebook: dense on dev'
+date: '2026-10-17'
